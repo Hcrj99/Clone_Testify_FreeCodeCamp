@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Testify from './components/Testify';
 
 function App() {
   return (
     <div className="App">
-      
+      <Testify />
     </div>
   );
 }
