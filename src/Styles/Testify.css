@@ -1,0 +1,10 @@
+.container__testify {
+    width: 1170px;
+    height: 368px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--Cards-color);
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}

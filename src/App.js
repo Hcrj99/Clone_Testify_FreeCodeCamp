@@ -4,7 +4,10 @@ import Testify from './components/Testify';
 function App() {
   return (
     <div className="App">
-      <Testify />
+      <section className='main__container'>
+        <h1>Here is what our alumni say about freeCodeCamp:</h1>
+        <Testify />
+      </section>
     </div>
   );
 }

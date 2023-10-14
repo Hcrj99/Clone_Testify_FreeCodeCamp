@@ -1,0 +1,48 @@
+:root {
+  --Color-leter1:#f5f6f7;
+  --Background-color: #1b1b32;
+  --Cards-color:#0a0a23;
+  --Text-color:#cacad5;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 65%;
+  background-color: var(--Background-color);
+}
+
+body {
+  font-size: 1.8rem;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.main__container {
+  min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-items: center;
+}
+
+.main__container h1 {
+  width: auto;
+  font-size: 3.8rem;
+  font-family: sans-serif;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 40px auto;
+  color: var(--Color-leter1);
+}
