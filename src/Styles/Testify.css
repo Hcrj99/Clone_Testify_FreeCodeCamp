@@ -1,10 +1,40 @@
 .container__testify {
     width: 1170px;
-    height: 368px;
+    height: 320px;
     margin: 10px auto;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: var(--Cards-color);
     box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.container__testify-image {
+    height: 100%;
+    width: auto;
+}
+
+.container__testify-text {
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 2rem;
+    color: var(--Text-color);
+}
+
+.testify-text__title {
+    font-size:  2.3rem;
+}
+
+.testify-text__position {
+    font-size: 2.3rem;
+    margin: 5px 0 30px;
+}
+
+.testify-text__testify {
+    font-size: 1.8rem;
+    text-align: justify;
 }
