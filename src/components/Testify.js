@@ -4,7 +4,8 @@ import '../Styles/Testify.css'
 function Testify(props){
   return (
     <section className='container__testify'>
-      <img className='container__testify-image' src={require(`../images/testify_${props.image}.png`)} alt='Photogaphy' />
+      <img className='container__testify-image' src={require(`../images/testify_${props.image}.png`)} 
+      alt={`Photography of ${props.name}`} />
       <div className='container__testify-text'>
         <p className='testify-text__title'>
           <strong>{props.name}</strong> in {props.country}
