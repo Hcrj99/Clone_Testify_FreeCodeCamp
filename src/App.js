@@ -1,12 +1,13 @@
 import './App.css';
-import Testify from './components/Testify';
+import Person from './components/Person';
 
 function App() {
   return (
     <div className="App">
       <section className='main__container'>
         <h1>Here is what our alumni say about freeCodeCamp:</h1>
-        <Testify
+        <Person />
+        {/* <Testify
           image = 'shawn'
           name = 'Shawn Wang'
           country = 'Singapore'
@@ -26,7 +27,7 @@ function App() {
           country = 'Sweden' 
           work = 'Software Engineer' 
           company = 'Spotify' 
-          testify = "I've always struggled with learning JavaScript. I've taken many courses but freeCodeCamp's course was the one which stuck. Studying JavaScript as well as data structures and algorithms on freeCodeCamp gave me the skills and confidence I needed to land my dream job as a software engineer at Spotify." />
+          testify = "I've always struggled with learning JavaScript. I've taken many courses but freeCodeCamp's course was the one which stuck. Studying JavaScript as well as data structures and algorithms on freeCodeCamp gave me the skills and confidence I needed to land my dream job as a software engineer at Spotify." /> */}
       </section>
     </div>
   );

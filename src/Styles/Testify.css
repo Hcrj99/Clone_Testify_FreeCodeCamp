@@ -38,3 +38,7 @@
     font-size: 1.8rem;
     text-align: justify;
 }
+
+.person__container {
+    margin: 0 auto;
+}
