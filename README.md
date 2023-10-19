@@ -6,7 +6,7 @@ Use the commands mentioned below following the react installation procedure and 
 
 The main idea of ​​the project is to clone the testimonials section of the FreeCodeCamp learning academy (https://www.freecodecamp.org/), in this case two components were used, one for the testimonial cards and the other to render the information that would be entered as accessories of the main component.
 
-You can see the results in the following link ().
+You can see the results in the following link (https://hcrj99.github.io/Clone_Testify_FreeCodeCamp/).
 
 
 # Getting Started with Create React App
