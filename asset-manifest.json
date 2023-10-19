@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clone_Testify_FreeCodeCamp/static/css/main.be8ecf5b.css",
+    "main.js": "/Clone_Testify_FreeCodeCamp/static/js/main.f435a22e.js",
+    "static/media/testify_emma.png": "/Clone_Testify_FreeCodeCamp/static/media/testify_emma.f1df2c4556de24872900.png",
+    "static/media/testify_sarah.png": "/Clone_Testify_FreeCodeCamp/static/media/testify_sarah.16b39ddfe054e4799d6e.png",
+    "static/media/testify_shawn.png": "/Clone_Testify_FreeCodeCamp/static/media/testify_shawn.f9eb4082b10a74465e7a.png",
+    "index.html": "/Clone_Testify_FreeCodeCamp/index.html",
+    "main.be8ecf5b.css.map": "/Clone_Testify_FreeCodeCamp/static/css/main.be8ecf5b.css.map",
+    "main.f435a22e.js.map": "/Clone_Testify_FreeCodeCamp/static/js/main.f435a22e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8ecf5b.css",
+    "static/js/main.f435a22e.js"
+  ]
+}
