@@ -2,7 +2,7 @@
   "name": "clone_freecodecamp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Hcrj99.github.io/Clone_Testify_FreeCodeCamp",
+  "homepage": "https://Hcrj99.github.io/Clone_Testify_FreeCodeCamp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
